@@ -1,4 +1,4 @@
-package org.techzoo.leetcode;
+package org.techzoo.leetcode.easy;
 
 public class Solution02 {
     //https://leetcode.com/problems/can-place-flowers/

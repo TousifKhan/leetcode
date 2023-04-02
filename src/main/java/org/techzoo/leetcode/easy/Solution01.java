@@ -1,4 +1,4 @@
-package org.techzoo.leetcode;
+package org.techzoo.leetcode.easy;
 
 import java.util.*;
 public class Solution01 {
