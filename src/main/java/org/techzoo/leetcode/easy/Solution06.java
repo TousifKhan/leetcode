@@ -1,4 +1,4 @@
-package org.techzoo.leetcode;
+package org.techzoo.leetcode.easy;
 
 public class Solution06 {
 
