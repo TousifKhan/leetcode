@@ -8,7 +8,7 @@
 /httpRequests/
 /target/*
 
-
+.gradle
 .idea
 *.iws
 *.iml
